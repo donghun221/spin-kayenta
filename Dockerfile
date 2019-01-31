@@ -1,0 +1,1 @@
+FROM gcr.io/spinnaker-marketplace/kayenta:0.5.1-20190104141519
